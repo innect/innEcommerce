@@ -1542,7 +1542,7 @@ select {
   background-color: #918cf3; }
 
 .cel__overlay--gradient {
-  background: linear-gradient(to right, #161658, #2821f1d0); 
+  background: linear-gradient(to right, #2821f1d0, #2821f1d0); 
   display: flex;
   justify-content: center;
   align-items: center;
